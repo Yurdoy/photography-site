@@ -59,7 +59,7 @@ a {
 
 a:hover,
 a:active {
-  color: var(--color-primary);
+  color: var(--color-subtle);
 }
 
 .btn {
